@@ -13,7 +13,7 @@
 # Le DataFrame est alors créé avec toutes ses colonnes définies sur leurs features (buying=0, maint=1, doors=2, persons=3, lug_boot=4, safety = 5).
 # par la suite on analyse chaque colonne individuellement et on remplace toutes les données catégoriques par des données numériques choisises au préalable.
 # 
-# #### Question 1: (Calculer les statistiques (moyenne et écart-type) des quatre variables explicatives)
+# #### Question 1 : (Calculer les statistiques (moyenne et écart-type) des quatre variables explicatives)
 # On affiche le resumé de la description statistique de notre jeu de données pour mieux appréhender le dataset.
 
 # In[182]:
