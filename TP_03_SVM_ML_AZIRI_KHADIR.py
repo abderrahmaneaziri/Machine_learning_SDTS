@@ -17,6 +17,7 @@
 
 # En premier lieu, on importe les données de notre dataset diabètes et on les illustre grace à "Seaborn" qui nous permet d'afficher chaque deux features sur un plan à 2D.
 
+
 # In[3]:
 
 
