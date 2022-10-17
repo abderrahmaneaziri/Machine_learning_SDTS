@@ -21,6 +21,7 @@
 # 
 # ##### TITANIC :
 # 
+
 # Il s’agit d’un sous-ensemble des passagers du fameux navire Titanic. L’objectif de cet exemple est de construire un modèle qui sait prédire pour un passager particulier s’il a survécu ou pas à ce drame. Ce jeu de données indique pour chaque passager les informations suivantes : 
 # 
 # * PassengerId : identifiant d’un passager.
